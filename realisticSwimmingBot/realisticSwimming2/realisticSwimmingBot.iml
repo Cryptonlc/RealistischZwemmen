@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
-    <facet type="minecraft" name="Minecraft">
+    <facet type="cryptomc" name="CryptoMC">
       <configuration>
         <autoDetectTypes>
-          <platformType>SPIGOT</platformType>
+          <platformType>CRYPTOVERSION1.0</platformType>
         </autoDetectTypes>
       </configuration>
     </facet>
